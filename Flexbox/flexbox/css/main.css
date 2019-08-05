@@ -1,3 +1,5 @@
 /* Your code goes here */
-
+.container{
+    display: flex;
+}
 
