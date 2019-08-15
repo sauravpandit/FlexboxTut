@@ -1,0 +1,10 @@
+.vcenter{
+    display:flex;
+    align-items: center;
+    height:100px;
+    justify-content: center;
+    border: 1px solid wheat;
+}
+p{
+    margin: 0px;
+}

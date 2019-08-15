@@ -13,8 +13,13 @@
 .gutters >div{
     padding: 10px 0 0 10px;
 }
-.cell > div{
-    background-color: rgba(255, 255, 255, .5);
-    height: 100%;
-    width: 100%;
+
+.half{
+    flex-basis: 50%;
+}
+.third{
+    flex-basis: 33.3333%;
+}
+.fourth{
+    flex-basis: 25%;
 }
